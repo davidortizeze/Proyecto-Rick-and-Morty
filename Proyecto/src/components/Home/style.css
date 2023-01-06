@@ -1,0 +1,25 @@
+.header-rick{
+    padding: 120px;
+}
+.stilo-css{
+    background-color: #ffffffe6;
+    width: 576px;
+    height: 500px;
+    font-family: 'Raleway', sans-serif;
+}
+.titulo-rick{
+    color: #344D67;
+    padding: 15px;
+}
+.border-line{
+    border: 1px solid black;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #344D67;
+    color: #6ECCAF;
+}
+.style-ul{
+    padding: 30px;
+}

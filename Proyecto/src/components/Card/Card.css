@@ -1,0 +1,60 @@
+.fondo-targeta{
+    background-color: rgb(34,49,66);
+    width: 318px;
+    height: 394,86px;
+}
+.color-letra{
+    color: whitesmoke;
+}
+.style-button{
+    background-color:  #6ECCAF;
+    color: #344D67;
+}
+.style-button:hover{
+    background-color: #6ECCAF;
+    color: #344D67;
+}
+.button-x{
+    background-color:#6ECCAF;
+}
+.button-x:hover{
+    background-color: #6ECCAF;
+}
+.tarjeta-more-info{
+    background-color: rgb(34,49,66);
+    max-width: 600px;
+}
+.item-1:hover{
+    background-color:#6ECCAF;
+    color:rgb(34,49,66);
+}
+.item-1{
+    background-color: rgb(34,49,66);
+    color:white;
+    width: 130px;
+    flex-wrap: wrap;
+}
+.item-2:hover{
+    background-color:#6ECCAF;
+    color:rgb(34,49,66);
+}
+.item-2{
+    background-color: rgb(34,49,66);
+    color:white;
+}
+.item-3:hover{
+    background-color:#6ECCAF;
+    color:rgb(34,49,66);
+}
+.item-3{
+    background-color: rgb(34,49,66);
+    color:white;
+}
+.item-4{
+    background-color: rgb(34,49,66);
+    color:white;
+}
+.item-4:hover{
+    background-color:#6ECCAF;
+    color:rgb(34,49,66);
+}

@@ -1,0 +1,20 @@
+.tarjeta-p{
+    background-color: #5c7592e6;
+    width: 812px;
+    height: 559px !important;
+    color: #223142;
+}
+.boton-sign{
+    background-color: #344D67;
+    border: #344D67;
+}
+.style-h2{
+    padding-bottom: 60px;
+    padding-right: 380px;
+    font-size: 40px;
+}
+.style-h3{
+    padding-bottom: 25px;
+    padding-right: 45px;
+    font-size: 30px;
+}
